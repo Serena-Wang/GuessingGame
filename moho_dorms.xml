@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<Q question="Is it on the outside of the gate?">
+		<A answer="Y">
+			<Q question="Is it the forgotten one that is exclusive to Frances Perkins Scholars?">
+				<A answer="Y">
+					<dorm  guess="Is it Dickinson?">
+					</dorm>
+				</A>			
+				<A answer="N">
+					<dorm guess="Is it Pearsons?">
+					</dorm>
+				</A>
+			</Q>
+		</A>
+		<A answer="N">
+		<Q question="Does it have dining halls for 3 meals?">
+			<A answer="Y">
+				<Q question="Does it have a shared dining hall?">
+					<A answer="Y">
+						<Q question="Does its name start with A?">
+							<A answer="Y">
+								<dorm guess="Is it Abbey?">
+								</dorm>
+							</A>
+							<A answer="N">
+								<dorm guess="Is it Buckland?">
+								</dorm>
+							</A>
+						</Q>
+					</A>
+					<A answer="N">
+						<Q question="Is it close to the gym? I mean reallllly close, almost adjacent to it.">
+							<A answer ="Y">
+								<Q question="Is it close to the equestrian center?">
+								 <A answer="Y">
+								 	<dorm guess ="Is it Macgregor?">
+								 	</dorm>
+								 </A>
+								 <A answer="N">
+									<dorm guess="Is it Ham?">
+									</dorm>
+								</A>
+								</Q>
+							</A>
+							<A answer="N">
+								<Q question="Does it have south and north parts?">
+									<A answer="Y">
+										<dorm guess="Is it Rockies?"></dorm>
+									</A>
+									<A answer="N">
+										<Q question="Is it close to Blanchard? I mean reallllly close, almost adjacent to it.">
+											<A answer="Y">
+												<dorm guess="Is it Wilder?">
+												</dorm>
+											</A>
+											<A answer="N">
+												<dorm guess="Is it Prospect?">
+												</dorm>
+											</A>
+										</Q>
+									</A>
+								</Q>
+							</A>
+						</Q>
+					</A>
+				</Q>
+			</A>
+			<A answer="N">
+				<Q question="Is it close to the library? I mean reallllly close, almost adjacent to it.">
+					<A answer="Y">
+						<Q question="Does it have faculty office?">
+							<A answer="Y">
+								<dorm guess="Is it Porter?"></dorm>
+							</A>
+							<A answer="N">
+								<Q question="Is it palace-like and you might not get a room there even if you are a senior?">
+									<A answer="Y">
+										<dorm guess="Is it Stafford?"></dorm>
+									</A>
+									<A answer="N">
+										<dorm guess="Is it Brigham?"></dorm>
+									</A>
+								</Q>
+							</A>
+						</Q>
+					</A>
+					<A answer="N">
+						<Q question="Is it close to the lower lake? I mean reallllly close, almost adjacent to it.">
+							<A answer="Y">
+								<Q question="Is it named after one of the former presidents?">
+									<A answer="Y">
+										<dorm guess="Is it Creighton?"></dorm>
+									</A>
+									<A answer="N">
+										<Q question="Does it have numbers in its name?">
+											<A answer="Y">
+												<dorm guess="Is it 1837?"></dorm>
+											</A>
+											<A answer="N">
+												<dorm guess="Is it Mendelts?"></dorm>
+											</A>
+										</Q>
+									</A>
+								</Q>
+							</A>
+							<A answer="N">
+								<Q question="Is it close to the upper lake? I mean reallllly close, almost adjacent to it.">
+									<A answer="Y">
+										<dorm guess="Is it Torrey?"></dorm>
+									</A>
+									<A answer="N">
+										<dorm guess="Is it Mead?"></dorm>
+									</A>
+							   </Q>
+							
+							</A>
+							
+						</Q>
+					</A>
+				</Q>
+			</A>
+		</Q>
+		</A>
+	</Q>
